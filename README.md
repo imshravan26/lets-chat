@@ -81,7 +81,7 @@ After this is done click on the web app with the name you gave and then click on
 
 - Replace the env variables with your keys as named.
 
-### Enabline Authentication
+### Enable Authentication
 
 - Go to the authentication tab in the sidebar
 - Click on get started
